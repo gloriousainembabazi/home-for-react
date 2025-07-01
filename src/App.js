@@ -38,7 +38,7 @@ import './App.css';
   //return (
     //<div className='App'>
       //<h1>React Forms Assignment</h1>
-
+t
       {/*forms with inputs*/}
      // <//h2> Inputs</h2>
       //<FormWithInputs />
