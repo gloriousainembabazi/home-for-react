@@ -29,4 +29,4 @@ const FormWithTextarea = () => {
     );
 };
 
-export default FormWithTextarea;
+export default FormWithTextare;

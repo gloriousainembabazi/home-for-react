@@ -67,4 +67,3 @@ const FormWithInputs = () => {
 };
 
 export default FormWithInputs;
-// This code defines a React component that renders a form with inputs for name, email, password, and address.
